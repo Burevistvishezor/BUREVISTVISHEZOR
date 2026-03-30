@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Kamil
 
-<!--
-**Burevistvishezor/BUREVISTVISHEZOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Elektrotechniker
+🔧 Spezialisierung: Elektrotechnik, Schaltpläne, Lastberechnungen
+🌍 Suche Arbeit in Europa (Deutschland/Niederlande)
 
-Here are some ideas to get you started:
+## 🚀 Meine Projekte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ API zur Berechnung elektrischer Lasten
+- 🔌 Verdrahtungspläne für Wohnungen
+- 🧠 Kurzanleitungen für Elektriker (5. Stufe)
+
+## 🛠 Fähigkeiten
+
+- Elektroinstallation
+- Lastberechnung
+- Automatisierung
+- Python (API-Projekte)
+
+## 📫 +79654907411
+
+- E-Mail: ladimp11@gmail.com
